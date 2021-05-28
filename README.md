@@ -6,6 +6,8 @@
 
 ![Gyuzyal photo](Photo_YG.jpg)
 
+![Gyuzyal photo](https://user-images.githubusercontent.com/84728899/119984732-06963500-bfc2-11eb-9d2b-6c9979deaa04.png)
+
 ## Junior at BeCode
 
 
