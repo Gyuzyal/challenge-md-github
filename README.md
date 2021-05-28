@@ -26,7 +26,7 @@
 * Listening music
 * Edting videos
 
-## You can always count on me when you are in trouble.
+## You can always count on me when
 
 ## Funny story
 ### TL;DR ... 
