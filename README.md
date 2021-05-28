@@ -36,4 +36,4 @@
 
 
 
-<< [Giuseppe](https://www.example.com) || [Gyuzyal](https:/https://github.com/Gyuzyal/challenge-md-github/github.com/Gyuzyal) || [Joao](https://www.example.com) >>
+<< [Giuseppe](https://www.example.com) || [Gyuzyal](https://github.com/Gyuzyal/challenge-md-github) || [Joao](https://www.example.com) >>
