@@ -21,8 +21,8 @@
 
 * Drawing
 * Watching movies/series
-  1. Interstellar
-  2. Breaking Bad
+  - Interstellar
+  - Breaking Bad
 * Listening music
 * Edting videos
 
