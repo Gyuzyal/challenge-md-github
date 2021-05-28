@@ -38,4 +38,4 @@ If you are in trouble, have any technical questions or anything else.
 
 
 
-<< [Giuseppe](https://github.com/Giuseppemoi/challenge-markdown) || [Gyuzyal](https://github.com/Gyuzyal/challenge-md-github) || [Joao](https://www.example.com) >>
+<< [Giuseppe](https://github.com/Giuseppemoi/challenge-markdown) || [Gyuzyal](https://github.com/Gyuzyal/challenge-md-github) || [Joao](https://github.com/JPRA-Dev/challenge-markdown/blob/master/README.md) >>
