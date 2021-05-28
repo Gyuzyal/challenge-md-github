@@ -27,6 +27,7 @@
 * Edting videos
 
 ## You can always count on me when
+If you are in trouble, have any technical questions or anything else.
 
 ## Funny story
 ### TL;DR ... 
