@@ -2,7 +2,7 @@
 
 # Gyuzyal
 
-> blockquote "Problems are not stop signs, they are guidelines." – Robert H. Schiuller
+> "Problems are not stop signs, they are guidelines." – Robert H. Schiuller
 
 ![Gyuzyal photo](Photo_YG.jpg)
 
