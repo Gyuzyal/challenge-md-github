@@ -36,4 +36,4 @@
 
 
 
-<< [Giuseppe](https://www.example.com) || [Gyuzyal](https://github.com/Gyuzyal/challenge-md-github) || [Joao](https://www.example.com) >>
+<< [Giuseppe](https://github.com/Giuseppemoi/challenge-markdown) || [Gyuzyal](https://github.com/Gyuzyal/challenge-md-github) || [Joao](https://www.example.com) >>
