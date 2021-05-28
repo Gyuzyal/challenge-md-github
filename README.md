@@ -21,10 +21,11 @@
 
 * Drawing
 * Watching movies/series
-        1.Interstellar
-        2.Breaking Bad
+        - Interstellar
+        - Breaking Bad
 * Listening music
 * Edting videos
+
 
 ## You can always count on me when
 If you are in trouble, have any technical questions or anything else.
