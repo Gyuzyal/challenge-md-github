@@ -5,7 +5,7 @@
 > "Problems are not stop signs, they are guidelines." – Robert H. Schiuller
 
 
-![Gyuzyal photo]()![image](https://user-images.githubusercontent.com/84728899/119985343-d00cea00-bfc2-11eb-947d-6d40b4c32e86.png)
+![]([image](https://user-images.githubusercontent.com/84728899/119985343-d00cea00-bfc2-11eb-947d-6d40b4c32e86.png)
 
 ## Junior at BeCode
 
