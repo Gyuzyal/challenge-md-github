@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/84728899/119985513-06e30000-bfc3-11eb-96ae-20b976af2b08.png)
 
-## Junior dev at BeCode
+## Junior webdev at BeCode
 
 
 |             | Description |
