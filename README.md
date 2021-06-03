@@ -17,7 +17,7 @@
 | Favorite food  | Pancakes |
 | Pinneapple  [ ] | pizza [x]|
 
-## Hobies
+## Hobbies
 
 * Drawing
 * Watching movies/series
